@@ -1,0 +1,47 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".MainActivity" >
+
+    <TextView
+        android:id="@+id/textView_vonNeuMannName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:textSize="30sp"
+        android:paddingBottom="8dp"
+        android:text="@string/von_neumann_name" />
+
+    <ImageView
+        android:id="@+id/imageViewNeuMann"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:adjustViewBounds="true"
+        android:paddingBottom="8dp"
+        android:paddingLeft="72dp"
+        android:paddingRight="72dp"
+        android:layout_below="@id/textView_vonNeuMannName"
+        android:layout_centerHorizontal="true"
+        android:contentDescription="@string/von_neumann_picture"
+        android:src="@drawable/john_von_neumann" />
+
+   <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/imageViewNeuMann"  >
+    
+	    <TextView
+	        android:id="@+id/textViewNeuMannBio"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_marginBottom="18dp"
+	        android:textSize="22sp"
+	        android:text="@string/von_neumann_bio" />
+	</ScrollView>
+	
+</RelativeLayout>

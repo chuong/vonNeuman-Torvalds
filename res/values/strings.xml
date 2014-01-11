@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">vonNeumann-Torvalds</string>
+    <string name="action_settings">Settings</string>
+    <string name="von_neumann_name">John von Neumann</string>
+    <string name="torvalds_name">Linus Torvalds</string>
+    <string name="von_neumann_picture">Von Neumann in the 1940s</string>
+    <string name="torvalds_picture">Torvalds in 2002</string>
+    <string name="von_neumann_bio">
+        John von Neumann (December 28, 1903 – February 8, 1957) was a Hungarian-American pure 
+        and applied mathematician and polymath. He made major contributions to a number of fields,
+        including mathematics (foundations of mathematics, functional analysis, ergodic theory, geometry, 
+        topology, and numerical analysis), physics (quantum mechanics, hydrodynamics, and fluid dynamics), 
+        economics (game theory), computer science (Von Neumann architecture, linear programming, 
+        self-replicating machines, stochastic computing), and statistics. He was a pioneer of 
+        the application of operator theory to quantum mechanics, in the development of functional analysis, 
+        a principal member of the Manhattan Project and the Institute for Advanced Study in Princeton 
+        (as one of the few originally appointed), and a key figure in the development of game theory
+        and the concepts of cellular automata, the universal constructor, and the digital computer. \n
+        
+        Von Neumann\'s mathematical analysis of the structure of self-replication preceded the 
+        discovery of the structure of DNA. In a short list of facts about his life he submitted 
+        to the National Academy of Sciences, he stated \"The part of my work I consider most essential 
+        is that on quantum mechanics, which developed in Göttingen in 1926, and subsequently in Berlin 
+        in 1927–1929. Also, my work on various forms of operator theory, Berlin 1930 and Princeton 1935–1939; 
+        on the ergodic theorem, Princeton, 1931–1932.\" Along with Hungarian-born American theoretical 
+        physicist Edward Teller and Polish mathematician Stanislaw Ulam, von Neumann worked out 
+        key steps in the nuclear physics involved in thermonuclear reactions and the hydrogen bomb. 
+        Von Neumann wrote 150 published papers in his life; 60 in pure mathematics, 20 in physics, 
+        and 60 in applied mathematics. His last work, an unfinished manuscript written while in the 
+        hospital and later published in book form as The Computer and the Brain, gives an indication 
+        of the direction of his interests at the time of his death.\n
+		Source: http://en.wikipedia.org/wiki/John_von_Neumann
+    </string>
+    <string name="torvalds_bio">
+        Linus Benedict Torvalds (born December 28, 1969) is a Finnish American software engineer, 
+        who was the principal force behind the development of the Linux kernel. He later became 
+        the chief architect of the Linux kernel, and now acts as the project\'s coordinator. 
+        He also created the revision control system Git as well as the diving log software Subsurface. 
+        He was honored, along with Shinya Yamanaka, with the 2012 Millennium Technology Prize by 
+        the Technology Academy Finland \"in recognition of his creation of a new open source operating 
+        system for computers leading to the widely used Linux kernel\".\n
+        
+        Torvalds attended the University of Helsinki between 1988 and 1996, graduating with a master\'s 
+        degree in computer science from NODES research group. His academic career was interrupted after 
+        his first year of study when he joined the Finnish Army, selecting the 11-month officer 
+        training program to fulfill the mandatory military service of Finland. In the army he held 
+        the rank of second lieutenant, with the role of a ballistic calculation officer. In 1990, 
+        he resumed his university studies, and was exposed to UNIX for the first time, in the form of 
+        a DEC MicroVAX running ULTRIX. His M.Sc. thesis was titled Linux: A Portable Operating System.
+		His interest in computers began with a Commodore VIC-20. After the VIC-20 he purchased 
+		a Sinclair QL, which he modified extensively, especially its operating system. 
+		He programmed an assembly language and a text editor for the QL, as well as a few games. 
+		He is known to have written a Pac-Man clone named Cool Man. On January 5, 1991 he purchased 
+		an Intel 80386-based IBM PC before receiving his MINIX copy, which in turn enabled him 
+		to begin work on Linux.\n
+		Source: http://en.wikipedia.org/wiki/Linus_Torvalds
+    </string>
+    
+</resources>
